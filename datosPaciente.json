@@ -1,0 +1,641 @@
+{
+    "id": "JuanPerez",
+    "idPaciente": "paciente001",
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "edad": 35,
+    "altura": 1.7,
+    "lesion": "Rehabilitación de hombro",
+    "sesiones": [
+        {
+            "sesion": 1,
+            "fecha": "2024-11-01",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio001",
+                    "nombreEjercicio": "Estiramiento de pectorales con banda elástica",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.23626739298502,
+                    "fuerzaMaxima": 26.142758748907383,
+                    "alturaMaxima": 1.218081537655948,
+                    "profundidadMaxima": 23.107085903105855,
+                    "velocidadMaxima": 50.24283296815462,
+                    "duracion": 15,
+                    "calificacion": 4,
+                    "comentarios": "Progreso inicial, buen rango de movimiento."
+                },
+                {
+                    "idEjercicio": "ejercicio002",
+                    "nombreEjercicio": "Deslizamiento de mano en la pared",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.089386546924512,
+                    "fuerzaMaxima": 26.140027099307385,
+                    "alturaMaxima": 1.2386848820680687,
+                    "profundidadMaxima": 23.19941400213483,
+                    "velocidadMaxima": 50.32499353237597,
+                    "duracion": 15,
+                    "calificacion": 4,
+                    "comentarios": "Progreso inicial, mejorando la altura."
+                },
+                {
+                    "idEjercicio": "ejercicio003",
+                    "nombreEjercicio": "Lanzamiento de pelota",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.172219204115635,
+                    "fuerzaMaxima": 26.18781136978735,
+                    "alturaMaxima": 1.226522048770558,
+                    "profundidadMaxima": 23.09680855221438,
+                    "velocidadMaxima": 50.07872224875687,
+                    "duracion": 15,
+                    "calificacion": 4,
+                    "comentarios": "Progreso inicial, velocidad controlada."
+                }
+            ]
+        },
+        {
+            "sesion": 2,
+            "fecha": "2024-11-03",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio002",
+                    "nombreEjercicio": "Deslizamiento de mano en la pared",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.22671486042441,
+                    "fuerzaMaxima": 26.196690519343186,
+                    "alturaMaxima": 1.4394982802878866,
+                    "profundidadMaxima": 23.26933340114499,
+                    "velocidadMaxima": 50.56488627593792,
+                    "duracion": 18,
+                    "calificacion": 5,
+                    "comentarios": "Mejoría en control del movimiento."
+                },
+                {
+                    "idEjercicio": "ejercicio005",
+                    "nombreEjercicio": "Elevación frontal con pesas ligeras",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.16257371374288,
+                    "fuerzaMaxima": 26.26580014716502,
+                    "alturaMaxima": 1.1870240160803542,
+                    "profundidadMaxima": 23.255363884404034,
+                    "velocidadMaxima": 50.17397763461545,
+                    "duracion": 16,
+                    "calificacion": 5,
+                    "comentarios": "Ligera mejora en la fuerza."
+                },
+                {
+                    "idEjercicio": "ejercicio006",
+                    "nombreEjercicio": "Rotación circular de hombro",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.10882351445606,
+                    "fuerzaMaxima": 26.05629635810951,
+                    "alturaMaxima": 1.0854289786918452,
+                    "profundidadMaxima": 23.181866393577895,
+                    "velocidadMaxima": 50.1638256623192,
+                    "duracion": 16,
+                    "calificacion": 5,
+                    "comentarios": "Buena mejora en la velocidad de movimiento."
+                }
+            ]
+        },
+        {
+            "sesion": 3,
+            "fecha": "2024-11-05",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio008",
+                    "nombreEjercicio": "Extensión del brazo con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.13838201116649,
+                    "fuerzaMaxima": 26.21734720932505,
+                    "alturaMaxima": 1.2306451346139087,
+                    "profundidadMaxima": 23.092630903607613,
+                    "velocidadMaxima": 50.197875590376874,
+                    "duracion": 16,
+                    "calificacion": 5,
+                    "comentarios": "Buen control del movimiento."
+                },
+                {
+                    "idEjercicio": "ejercicio009",
+                    "nombreEjercicio": "Remo inclinado con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.17957510615317,
+                    "fuerzaMaxima": 26.311036278403588,
+                    "alturaMaxima": 1.2921941540581359,
+                    "profundidadMaxima": 23.14150494177869,
+                    "velocidadMaxima": 50.19402622603469,
+                    "duracion": 18,
+                    "calificacion": 5,
+                    "comentarios": "Buen progreso en la profundidad."
+                },
+                {
+                    "idEjercicio": "ejercicio002",
+                    "nombreEjercicio": "Deslizamiento de mano en la pared",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.4368773844322,
+                    "fuerzaMaxima": 26.391750131074573,
+                    "alturaMaxima": 1.767713650862361,
+                    "profundidadMaxima": 23.36526482050624,
+                    "velocidadMaxima": 50.726669587082384,
+                    "duracion": 18,
+                    "calificacion": 6,
+                    "comentarios": "Progreso significativo en la altura."
+                }
+            ]
+        },
+        {
+            "sesion": 4,
+            "fecha": "2024-11-07",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio001",
+                    "nombreEjercicio": "Estiramiento de pectorales con banda elástica",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.531873615295932,
+                    "fuerzaMaxima": 26.310464938512077,
+                    "alturaMaxima": 1.4300625056181184,
+                    "profundidadMaxima": 23.215587497816067,
+                    "velocidadMaxima": 50.42146745246299,
+                    "duracion": 20,
+                    "calificacion": 6,
+                    "comentarios": "Excelente control del ángulo."
+                },
+                {
+                    "idEjercicio": "ejercicio004",
+                    "nombreEjercicio": "Rotación externa de hombro",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.253600565433956,
+                    "fuerzaMaxima": 26.195128441604282,
+                    "alturaMaxima": 1.1630633751205994,
+                    "profundidadMaxima": 23.18997280009849,
+                    "velocidadMaxima": 50.223300082816436,
+                    "duracion": 20,
+                    "calificacion": 7,
+                    "comentarios": "Gran mejora en la rotación."
+                },
+                {
+                    "idEjercicio": "ejercicio005",
+                    "nombreEjercicio": "Elevación frontal con pesas ligeras",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.222496556350528,
+                    "fuerzaMaxima": 26.466712853410993,
+                    "alturaMaxima": 1.3936670585050268,
+                    "profundidadMaxima": 23.22200797174827,
+                    "velocidadMaxima": 50.31899084348612,
+                    "duracion": 20,
+                    "calificacion": 7,
+                    "comentarios": "Fuerza aumentada, buen control."
+                }
+            ]
+        },
+        {
+            "sesion": 5,
+            "fecha": "2024-11-12",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio008",
+                    "nombreEjercicio": "Extensión del brazo con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.352349791515447,
+                    "fuerzaMaxima": 26.483137368226167,
+                    "alturaMaxima": 1.4158537045638868,
+                    "profundidadMaxima": 23.225354714451854,
+                    "velocidadMaxima": 50.38400587914716,
+                    "duracion": 22,
+                    "calificacion": 8,
+                    "comentarios": "Rango de movimiento mejorado, muy buen control."
+                },
+                {
+                    "idEjercicio": "ejercicio002",
+                    "nombreEjercicio": "Deslizamiento de mano en la pared",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.622095354540914,
+                    "fuerzaMaxima": 26.467035670783122,
+                    "alturaMaxima": 2.040279873680031,
+                    "profundidadMaxima": 23.542310275644155,
+                    "velocidadMaxima": 51.024699872387934,
+                    "duracion": 20,
+                    "calificacion": 8,
+                    "comentarios": "Mejora notable en la altura."
+                },
+                {
+                    "idEjercicio": "ejercicio003",
+                    "nombreEjercicio": "Lanzamiento de pelota",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.308056314974618,
+                    "fuerzaMaxima": 26.17387409292225,
+                    "alturaMaxima": 1.293567083262078,
+                    "profundidadMaxima": 23.195510679206148,
+                    "velocidadMaxima": 50.29662342217846,
+                    "duracion": 22,
+                    "calificacion": 9,
+                    "comentarios": "Gran mejora en la velocidad del lanzamiento."
+                }
+            ]
+        },
+        {
+            "sesion": 6,
+            "fecha": "2024-11-14",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio004",
+                    "nombreEjercicio": "Rotación externa de hombro",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.471533319576803,
+                    "fuerzaMaxima": 26.36470323415912,
+                    "alturaMaxima": 1.3817741432871318,
+                    "profundidadMaxima": 23.274941362245215,
+                    "velocidadMaxima": 50.376796216599516,
+                    "duracion": 25,
+                    "calificacion": 9,
+                    "comentarios": "Excelente amplitud de movimiento."
+                },
+                {
+                    "idEjercicio": "ejercicio005",
+                    "nombreEjercicio": "Elevación frontal con pesas ligeras",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.30292369574549,
+                    "fuerzaMaxima": 26.732783814823122,
+                    "alturaMaxima": 1.6148013619850414,
+                    "profundidadMaxima": 23.353883825434064,
+                    "velocidadMaxima": 50.59048364269621,
+                    "duracion": 22,
+                    "calificacion": 9,
+                    "comentarios": "Gran aumento de fuerza."
+                },
+                {
+                    "idEjercicio": "ejercicio006",
+                    "nombreEjercicio": "Rotación circular de hombro",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.29487653173809,
+                    "fuerzaMaxima": 26.222207342780774,
+                    "alturaMaxima": 1.2949891972152112,
+                    "profundidadMaxima": 23.25288420471174,
+                    "velocidadMaxima": 50.249222930211864,
+                    "duracion": 22,
+                    "calificacion": 10,
+                    "comentarios": "Velocidad excelente, movimiento fluido."
+                }
+            ]
+        },
+        {
+            "sesion": 7,
+            "fecha": "2024-11-16",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio004",
+                    "nombreEjercicio": "Rotación externa de hombro",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.815269511799585,
+                    "fuerzaMaxima": 26.576688941419476,
+                    "alturaMaxima": 1.5127161686622044,
+                    "profundidadMaxima": 23.459555702766803,
+                    "velocidadMaxima": 50.59648402995412,
+                    "duracion": 25,
+                    "calificacion": 10,
+                    "comentarios": "Amplitud de movimiento excelente, gran control."
+                },
+                {
+                    "idEjercicio": "ejercicio005",
+                    "nombreEjercicio": "Elevación frontal con pesas ligeras",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.437206478497682,
+                    "fuerzaMaxima": 26.995838926832818,
+                    "alturaMaxima": 1.72962696341557,
+                    "profundidadMaxima": 23.59923226634547,
+                    "velocidadMaxima": 50.71684210905639,
+                    "duracion": 25,
+                    "calificacion": 10,
+                    "comentarios": "Significativo aumento en la fuerza."
+                },
+                {
+                    "idEjercicio": "ejercicio003",
+                    "nombreEjercicio": "Lanzamiento de pelota",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.44042065814842,
+                    "fuerzaMaxima": 26.431139514696543,
+                    "alturaMaxima": 1.5276763946272771,
+                    "profundidadMaxima": 23.299268440275128,
+                    "velocidadMaxima": 50.49462596293477,
+                    "duracion": 25,
+                    "calificacion": 10,
+                    "comentarios": "Gran aumento en la velocidad."
+                }
+            ]
+        },
+        {
+            "sesion": 8,
+            "fecha": "2024-11-18",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio001",
+                    "nombreEjercicio": "Estiramiento de pectorales con banda elástica",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.656753829257426,
+                    "fuerzaMaxima": 26.46873331869809,
+                    "alturaMaxima": 1.5624760545009264,
+                    "profundidadMaxima": 23.403543724505795,
+                    "velocidadMaxima": 50.60472311366293,
+                    "duracion": 27,
+                    "calificacion": 10,
+                    "comentarios": "Excelente rango de movimiento, mayor comodidad."
+                },
+                {
+                    "idEjercicio": "ejercicio004",
+                    "nombreEjercicio": "Rotación externa de hombro",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.905340837033123,
+                    "fuerzaMaxima": 26.667487332580038,
+                    "alturaMaxima": 1.7502309030610337,
+                    "profundidadMaxima": 23.522553466580185,
+                    "velocidadMaxima": 50.64102945662723,
+                    "duracion": 28,
+                    "calificacion": 10,
+                    "comentarios": "Mejora en amplitud y control."
+                },
+                {
+                    "idEjercicio": "ejercicio003",
+                    "nombreEjercicio": "Lanzamiento de pelota",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.634713271881456,
+                    "fuerzaMaxima": 26.63681534927148,
+                    "alturaMaxima": 1.6087588403412885,
+                    "profundidadMaxima": 23.453848933031974,
+                    "velocidadMaxima": 50.62828518544885,
+                    "duracion": 28,
+                    "calificacion": 10,
+                    "comentarios": "Excelente aumento en la velocidad y la fuerza."
+                }
+            ]
+        },
+        {
+            "sesion": 9,
+            "fecha": "2024-11-20",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio007",
+                    "nombreEjercicio": "Elevación de brazo en posición de 'Y' tumbado",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.124808613147447,
+                    "fuerzaMaxima": 26.163855038714388,
+                    "alturaMaxima": 1.2305602529120785,
+                    "profundidadMaxima": 23.243998026795715,
+                    "velocidadMaxima": 50.151248841319415,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Altura excelente, muy buen control."
+                },
+                {
+                    "idEjercicio": "ejercicio005",
+                    "nombreEjercicio": "Elevación frontal con pesas ligeras",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.569900716714592,
+                    "fuerzaMaxima": 27.26943473492797,
+                    "alturaMaxima": 1.883899928061989,
+                    "profundidadMaxima": 23.68339148160834,
+                    "velocidadMaxima": 50.84763900831883,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Aumento de fuerza, muy buen rendimiento."
+                },
+                {
+                    "idEjercicio": "ejercicio008",
+                    "nombreEjercicio": "Extensión del brazo con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.595751555056726,
+                    "fuerzaMaxima": 26.80862591540305,
+                    "alturaMaxima": 1.6300385920758829,
+                    "profundidadMaxima": 23.384607968747193,
+                    "velocidadMaxima": 50.53767685720275,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Velocidad y control notables."
+                }
+            ]
+        },
+        {
+            "sesion": 10,
+            "fecha": "2024-11-22",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio001",
+                    "nombreEjercicio": "Estiramiento de pectorales con banda elástica",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.864685307349966,
+                    "fuerzaMaxima": 26.485181416644377,
+                    "alturaMaxima": 1.8028945168312418,
+                    "profundidadMaxima": 23.4470165784902,
+                    "velocidadMaxima": 50.73650134541742,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Excelente progreso, rango de movimiento completo."
+                },
+                {
+                    "idEjercicio": "ejercicio006",
+                    "nombreEjercicio": "Rotación circular de hombro",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.4078484183217,
+                    "fuerzaMaxima": 26.331830973797228,
+                    "alturaMaxima": 1.4843210482758626,
+                    "profundidadMaxima": 23.455732515358967,
+                    "velocidadMaxima": 50.458918558967916,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Velocidad y fuerza excepcionales, muy buen control."
+                },
+                {
+                    "idEjercicio": "ejercicio007",
+                    "nombreEjercicio": "Elevación de brazo en posición de 'Y' tumbado",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.29938261985985,
+                    "fuerzaMaxima": 26.310938127808146,
+                    "alturaMaxima": 1.3334196039819,
+                    "profundidadMaxima": 23.36362116485575,
+                    "velocidadMaxima": 50.37494049958357,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Control perfecto en rotación externa."
+                }
+            ]
+        },
+        {
+            "sesion": 11,
+            "fecha": "2024-11-24",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio005",
+                    "nombreEjercicio": "Elevación frontal con pesas ligeras",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.678736887264197,
+                    "fuerzaMaxima": 27.491502735053892,
+                    "alturaMaxima": 1.9503373358288691,
+                    "profundidadMaxima": 23.777492020916622,
+                    "velocidadMaxima": 51.06651795848999,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Incremento notable en fuerza y resistencia."
+                },
+                {
+                    "idEjercicio": "ejercicio009",
+                    "nombreEjercicio": "Remo inclinado con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.416404537991866,
+                    "fuerzaMaxima": 26.604834546116216,
+                    "alturaMaxima": 1.4673245844432086,
+                    "profundidadMaxima": 23.257086029721115,
+                    "velocidadMaxima": 50.446150303024055,
+                    "duracion": 32,
+                    "calificacion": 10,
+                    "comentarios": "Altura máxima alcanzada con gran estabilidad."
+                },
+                {
+                    "idEjercicio": "ejercicio006",
+                    "nombreEjercicio": "Rotación circular de hombro",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.637568084560353,
+                    "fuerzaMaxima": 26.45933773122639,
+                    "alturaMaxima": 1.5887388876745436,
+                    "profundidadMaxima": 23.590915422395177,
+                    "velocidadMaxima": 50.568818935421646,
+                    "duracion": 32,
+                    "calificacion": 10,
+                    "comentarios": "Movimiento fluido y control sobresaliente."
+                }
+            ]
+        },
+        {
+            "sesion": 12,
+            "fecha": "2024-11-26",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio004",
+                    "nombreEjercicio": "Rotación externa de hombro",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 21.12885874955703,
+                    "fuerzaMaxima": 26.8531724768044,
+                    "alturaMaxima": 1.8270556115435241,
+                    "profundidadMaxima": 23.740136205120695,
+                    "velocidadMaxima": 50.93263701301392,
+                    "duracion": 35,
+                    "calificacion": 10,
+                    "comentarios": "Amplitud máxima alcanzada con excelente control."
+                },
+                {
+                    "idEjercicio": "ejercicio009",
+                    "nombreEjercicio": "Remo inclinado con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.570576073686652,
+                    "fuerzaMaxima": 26.859618584978428,
+                    "alturaMaxima": 1.5418741373578515,
+                    "profundidadMaxima": 23.33071516449006,
+                    "velocidadMaxima": 50.544744129433894,
+                    "duracion": 35,
+                    "calificacion": 10,
+                    "comentarios": "Gran velocidad con precisión mejorada."
+                },
+                {
+                    "idEjercicio": "ejercicio008",
+                    "nombreEjercicio": "Extensión del brazo con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.6602149508898,
+                    "fuerzaMaxima": 26.971906784806848,
+                    "alturaMaxima": 1.6471591944914121,
+                    "profundidadMaxima": 23.486302664823377,
+                    "velocidadMaxima": 50.72775770662222,
+                    "duracion": 35,
+                    "calificacion": 10,
+                    "comentarios": "Fuerza máxima alcanzada, excelente resistencia."
+                }
+            ]
+        },
+        {
+            "sesion": 13,
+            "fecha": "2024-11-18",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio007",
+                    "nombreEjercicio": "Elevación de brazo en posición de 'Y' tumbado",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.51135195607787,
+                    "fuerzaMaxima": 26.540539013396376,
+                    "alturaMaxima": 1.4788180298701343,
+                    "profundidadMaxima": 23.514174374320007,
+                    "velocidadMaxima": 50.5064551987894,
+                    "duracion": 27,
+                    "calificacion": 10,
+                    "comentarios": "Excelente rango de movimiento, mayor comodidad."
+                },
+                {
+                    "idEjercicio": "ejercicio007",
+                    "nombreEjercicio": "Elevación de brazo en posición de 'Y' tumbado",
+                    "clasificacionEjercicio": "Ángulo máximo",
+                    "anguloMaximo": 20.638545292200664,
+                    "fuerzaMaxima": 26.670131402076176,
+                    "alturaMaxima": 1.580909463956809,
+                    "profundidadMaxima": 23.68052088312527,
+                    "velocidadMaxima": 50.681500549995455,
+                    "duracion": 28,
+                    "calificacion": 10,
+                    "comentarios": "Mejora en amplitud y control."
+                },
+                {
+                    "idEjercicio": "ejercicio003",
+                    "nombreEjercicio": "Lanzamiento de pelota",
+                    "clasificacionEjercicio": "Velocidad del movimiento",
+                    "anguloMaximo": 20.724938724838427,
+                    "fuerzaMaxima": 26.662475639260254,
+                    "alturaMaxima": 1.733137225349973,
+                    "profundidadMaxima": 23.52311030335286,
+                    "velocidadMaxima": 50.80167354141761,
+                    "duracion": 28,
+                    "calificacion": 10,
+                    "comentarios": "Excelente aumento en la velocidad y la fuerza."
+                }
+            ]
+        },
+        {
+            "sesion": 9,
+            "fecha": "2024-11-20",
+            "ejercicios": [
+                {
+                    "idEjercicio": "ejercicio002",
+                    "nombreEjercicio": "Deslizamiento de mano en la pared",
+                    "clasificacionEjercicio": "Altura máxima",
+                    "anguloMaximo": 20.71817443067357,
+                    "fuerzaMaxima": 26.575456598437754,
+                    "alturaMaxima": 2.184273545035215,
+                    "profundidadMaxima": 23.664627949509526,
+                    "velocidadMaxima": 51.21741220787096,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Altura excelente, muy buen control."
+                },
+                {
+                    "idEjercicio": "ejercicio009",
+                    "nombreEjercicio": "Remo inclinado con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.742725722416555,
+                    "fuerzaMaxima": 27.054510760687414,
+                    "alturaMaxima": 1.7783580634877418,
+                    "profundidadMaxima": 23.459897667144016,
+                    "velocidadMaxima": 50.833846039298564,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Aumento de fuerza, muy buen rendimiento."
+                },
+                {
+                    "idEjercicio": "ejercicio008",
+                    "nombreEjercicio": "Extensión del brazo con banda elástica",
+                    "clasificacionEjercicio": "Fuerza",
+                    "anguloMaximo": 20.85118005942048,
+                    "fuerzaMaxima": 27.408470520214518,
+                    "alturaMaxima": 1.8622821487635584,
+                    "profundidadMaxima": 23.605500321329867,
+                    "velocidadMaxima": 50.876243620033016,
+                    "duracion": 30,
+                    "calificacion": 10,
+                    "comentarios": "Velocidad y control notables."
+                }
+            ]
+        }
+    ]
+}
